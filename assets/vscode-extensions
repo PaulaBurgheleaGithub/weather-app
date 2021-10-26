@@ -1,0 +1,59 @@
+#!/usr/bin/bash
+​
+code \
+--install-extension bceskavich.theme-dracula-at-night \
+--install-extension echevarriandre.theme-dracula-clean \
+--install-extension evondev.dracula-high-contrast \
+--install-extension hilalh.hyper-dracula-vscode-theme \
+\
+--install-extension aaron-bond.better-comments \
+--install-extension abusaidm.html-snippets \
+--install-extension adrianwilczynski.namespace \
+--install-extension alefragnani.Bookmarks \
+--install-extension alefragnani.numbered-bookmarks \
+--install-extension andrejunges.Handlebars \
+--install-extension anseki.vscode-color \
+--install-extension apollographql.vscode-apollo \
+--install-extension bajdzis.vscode-database \
+--install-extension bradgashler.htmltagwrap \
+--install-extension bradlc.vscode-tailwindcss \
+--install-extension bungcip.better-toml \
+--install-extension christian-kohler.npm-intellisense \
+--install-extension CoenraadS.bracket-pair-colorizer-2 \
+--install-extension cssho.vscode-svgviewer \
+--install-extension dariofuzinato.vue-peek \
+--install-extension DavidAnson.vscode-markdownlint \
+--install-extension dbaeumer.vscode-eslint \
+--install-extension esbenp.prettier-vscode \
+--install-extension formulahendry.auto-close-tag \
+--install-extension formulahendry.auto-rename-tag \
+--install-extension hollowtree.canvas-snippets \
+--install-extension hwencc.html-tag-wrapper \
+--install-extension jock.svg \
+--install-extension jpoissonnier.vscode-styled-components \
+--install-extension kdcro101.vscode-redis \
+--install-extension kisstkondoros.vscode-gutter-preview \
+--install-extension kumar-harsh.graphql-for-vscode \
+--install-extension mikestead.dotenv \
+--install-extension mrmlnc.vscode-duplicate \
+--install-extension mrmlnc.vscode-scss \
+--install-extension ms-azuretools.vscode-docker \
+--install-extension naumovs.color-highlight \
+--install-extension octref.vetur \
+--install-extension oderwat.indent-rainbow \
+--install-extension Orta.vscode-jest \
+--install-extension rebornix.project-snippets \
+--install-extension redhat.vscode-yaml \
+\
+--install-extension ritwickdey.LiveServer \
+--install-extension ms-vsliveshare.vsliveshare \
+\
+--install-extension SimonSiefke.svg-preview \
+--install-extension slevesque.vscode-3dviewer \
+--install-extension sysoev.language-stylus \
+--install-extension techer.open-in-browser \
+--install-extension VisualStudioExptTeam.vscodeintellicode \
+--install-extension vitorsalgado.vscode-redis \
+--install-extension WallabyJs.quokka-vscode \
+--install-extension xabikos.JavaScriptSnippets \
+--install-extension yzhang.markdown-all-in-one

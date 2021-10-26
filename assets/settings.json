@@ -1,0 +1,46 @@
+{
+	"editor.insertSpaces": false,
+	"editor.fontFamily": "'Fira Code'",
+	"editor.fontLigatures": true,
+	"editor.formatOnSave": true,
+	"editor.tabCompletion": "on",
+	"editor.renderWhitespace": "all",
+	"editor.suggestSelection": "first",
+	"editor.linkedEditing": true,
+	"files.associations": {
+		"*.jst": "html"
+	},
+	"workbench.colorTheme": "Dracula darker contrast",
+	"files.insertFinalNewline": true,
+	"bookmarks.useWorkaroundForFormatters": true,
+	"javascript.updateImportsOnFileMove.enabled": "always",
+	"[html]": {
+		"editor.defaultFormatter": "vscode.html-language-features"
+	},
+	"liveServer.settings.donotShowInfoMsg": true,
+	"vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+	"files.exclude": {
+		"**/.classpath": true,
+		"**/.project": true,
+		"**/.settings": true,
+		"**/.factorypath": true
+	},
+	"kite.showWelcomeNotificationOnStartup": false,
+	"emmet.extensionsPath": [
+		"~/.emmet"
+	],
+	"emmet.includeLanguages": {
+		"javascript": "javascriptreact"
+	},
+	"shellcheck.enableQuickFix": true,
+	"liveSassCompile.settings.formats": [
+		{
+			"format": "expanded",
+			"extensionName": ".css",
+			"savePath": null
+		}
+	],
+	"tabnine.experimentalAutoImports": true,
+	"workbench.startupEditor": "welcomePage",
+	"liveServer.settings.donotVerifyTags": true
+}
