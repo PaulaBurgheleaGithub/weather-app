@@ -6,6 +6,15 @@ body {
 
 a {
   color: rgba(20, 90, 222);
+  text-decoration: none;
+}
+
+banana {
+  color: block;
+}
+
+a:hover {
+  text-decoration: underline;
 }
 
 table {
