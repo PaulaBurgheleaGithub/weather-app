@@ -9,10 +9,6 @@ a {
   text-decoration: none;
 }
 
-banana {
-  color: block;
-}
-
 a:hover {
   text-decoration: underline;
 }
