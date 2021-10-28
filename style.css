@@ -13,6 +13,13 @@ a:hover {
   text-decoration: underline;
 }
 
+p,
+ul,
+ol {
+  line-height: 1.75;
+  margin: 20px 0;
+}
+
 table {
   /* border-collapse: collapse; */
   /* empty-cells: hide; */
@@ -31,7 +38,7 @@ table td {
   padding: 10px 12px;
 }
 
-table td a {
+table td > a {
   display: block;
   margin: 5px;
 }
