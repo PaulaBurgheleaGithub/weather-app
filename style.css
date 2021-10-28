@@ -36,6 +36,7 @@ table caption {
 table th,
 table td {
   padding: 10px 12px;
+  vertical-align: top;
 }
 
 table td > a {
@@ -46,6 +47,13 @@ table td > a {
 table tbody > tr:first-child > th {
   background-color: aquamarine;
   margin: 20px 0 0;
+}
+
+table tbody > tr:first-child > th:first-child {
+  font-weight: normal;
+  background-color: lightgray;
+  text-transform: uppercase;
+  letter-spacing: 2px;
 }
 
 table tbody > tr > th:first-child {
