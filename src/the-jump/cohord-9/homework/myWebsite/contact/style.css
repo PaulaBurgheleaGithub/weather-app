@@ -1,0 +1,41 @@
+body {
+  font-family: "Encode Sans", sans-serif;
+}
+nav {
+  font-size: 20px;
+  font-style: inherit;
+  font-feature-settings: ;
+}
+ul {
+  list-style: none;
+  padding: 0;
+}
+ul li {
+  display: inline-block;
+
+  padding: 5px 7px;
+}
+body.custom-background {
+  background-color: #ffffff;
+}
+textarea {
+  font-size: 0.8rem;
+  letter-spacing: 1px;
+}
+textarea {
+  padding: 10px;
+  max-width: 100%;
+  line-height: 1.5;
+  border-radius: 5px;
+  border: 1px solid rgb(128, 138, 125);
+  box-shadow: 1px 1px 1px #999;
+}
+
+label {
+  display: block;
+  margin-bottom: 10px;
+}
+.large-label {
+  font-size: 1rem;
+  letter-spacing: 1px;
+}

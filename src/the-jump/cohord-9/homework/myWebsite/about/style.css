@@ -1,0 +1,20 @@
+body {
+  font-family: "Encode Sans", sans-serif;
+}
+nav {
+  font-size: 20px;
+}
+ul {
+  list-style: none;
+  padding: 0;
+}
+ul li {
+  display: inline-block;
+  padding: 5px 7px;
+}
+a {
+  text-decoration: none;
+}
+body.custom-background {
+  background-color: #ffffff;
+}
