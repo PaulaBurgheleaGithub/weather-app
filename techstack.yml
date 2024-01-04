@@ -1,7 +1,8 @@
 repo_name: PaulaBurgheleaGithub/weather-app
 report_id: d2cb89f607435d566c566b946b7d7d74
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-09T16:15:45+00:00'
+timestamp: '2024-01-04T15:01:23+00:00'
 requested_by: PaulaBurgheleaGithub
 provider: github
 branch: main
@@ -15,6 +16,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/PaulaBurgheleaGithub/weather-app
   detection_source: Repo Metadata
 - name: JavaScript
   description: Lightweight, interpreted, object-oriented language with first-class
@@ -25,6 +27,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/PaulaBurgheleaGithub/weather-app
   detection_source: Repo Metadata
 - name: React
   description: A JavaScript library for building user interfaces
@@ -36,8 +39,8 @@ tools:
   category: Libraries
   sub_category: Javascript UI Libraries
   image_url: https://img.stackshare.io/service/1020/OYIaJ1KK.png
-  detection_source_url: src/the-jump/JS/projects/game/package-lock.json
-  detection_source: src/the-jump/JS/projects/wiseProject/my-wise-app/package.json
+  detection_source_url: https://github.com/PaulaBurgheleaGithub/weather-app/blob/main/src/the-jump/JS/projects/game/package-lock.json
+  detection_source: src/the-jump/JS/projects/game/package.json
   last_updated_by: Paula Burghelea
   last_updated_on: 2022-05-16 09:52:59.000000000 Z
 - name: Git
@@ -48,6 +51,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/PaulaBurgheleaGithub/weather-app
   detection_source: Repo Metadata
 - name: npm
   description: The package manager for JavaScript.
@@ -57,7 +61,8 @@ tools:
   category: Build, Test, Deploy
   sub_category: Front End Package Manager
   image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
-  detection_source: src/the-jump/JS/projects/wiseProject/my-wise-app/package.json
+  detection_source_url: https://github.com/PaulaBurgheleaGithub/weather-app/blob/main/src/the-jump/JS/projects/gitHubCard/profile-card/package.json
+  detection_source: src/the-jump/JS/projects/gitHubCard/profile-card/package.json
   last_updated_by: Paula Burghelea
   last_updated_on: 2022-05-16 09:52:59.000000000 Z
 - name: Shell
@@ -69,6 +74,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png
+  detection_source_url: https://github.com/PaulaBurgheleaGithub/weather-app
   detection_source: Repo Metadata
 - name: axios
   description: Promise based HTTP client for the browser and node.js
@@ -80,8 +86,8 @@ tools:
   category: Libraries
   sub_category: Javascript Utilities & Libraries
   image_url: https://img.stackshare.io/no-img-open-source.png
-  detection_source_url: src/the-jump/JS/projects/gitHubCard/profile-card/package-lock.json
-  detection_source: src/the-jump/JS/projects/wiseProject/my-wise-app/package.json
+  detection_source_url: https://github.com/PaulaBurgheleaGithub/weather-app/blob/main/src/the-jump/JS/projects/gitHubCard/profile-card/package-lock.json
+  detection_source: src/the-jump/JS/projects/gitHubCard/profile-card/package.json
   last_updated_by: Paula Burghelea
   last_updated_on: 2022-05-16 09:52:59.000000000 Z
 - name: "@testing-library/jest-dom"
@@ -94,8 +100,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17424/default_1cdcda15ebb7caed879f8340bc212b44c4ec9dac.png
-  detection_source_url: src/the-jump/JS/projects/game/package-lock.json
-  detection_source: src/the-jump/JS/projects/wiseProject/my-wise-app/package.json
+  detection_source_url: https://github.com/PaulaBurgheleaGithub/weather-app/blob/main/src/the-jump/JS/projects/game/package-lock.json
+  detection_source: src/the-jump/JS/projects/game/package.json
   last_updated_by: Paula Burghelea
   last_updated_on: 2022-05-16 09:52:59.000000000 Z
 - name: "@testing-library/react"
@@ -109,8 +115,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16549/default_d522554c6a41cb28d922d6d3ad32ad4afa0e3bb5.png
-  detection_source_url: src/the-jump/JS/projects/game/package-lock.json
-  detection_source: src/the-jump/JS/projects/wiseProject/my-wise-app/package.json
+  detection_source_url: https://github.com/PaulaBurgheleaGithub/weather-app/blob/main/src/the-jump/JS/projects/game/package-lock.json
+  detection_source: src/the-jump/JS/projects/game/package.json
   last_updated_by: Paula Burghelea
   last_updated_on: 2022-05-16 09:52:59.000000000 Z
 - name: react-dom
@@ -123,8 +129,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15808/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
-  detection_source_url: src/the-jump/JS/projects/game/package-lock.json
-  detection_source: src/the-jump/JS/projects/wiseProject/my-wise-app/package.json
+  detection_source_url: https://github.com/PaulaBurgheleaGithub/weather-app/blob/main/src/the-jump/JS/projects/game/package-lock.json
+  detection_source: src/the-jump/JS/projects/game/package.json
   last_updated_by: Paula Burghelea
   last_updated_on: 2022-05-16 09:52:59.000000000 Z
 - name: react-scripts
@@ -137,7 +143,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15985/default_8b5680d4e916298d08363c291a0d6e34c07ceb15.png
-  detection_source_url: src/the-jump/JS/projects/game/package-lock.json
-  detection_source: src/the-jump/JS/projects/wiseProject/my-wise-app/package.json
+  detection_source_url: https://github.com/PaulaBurgheleaGithub/weather-app/blob/main/src/the-jump/JS/projects/game/package-lock.json
+  detection_source: src/the-jump/JS/projects/game/package.json
   last_updated_by: Paula Burghelea
   last_updated_on: 2022-05-16 09:52:59.000000000 Z
